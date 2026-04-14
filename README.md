@@ -97,11 +97,11 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 
 ## 3D printed parts
 
-**USE-**
+To print all the parts for the HACK FLY frame, please **USE-**
 
-PETG or ABS - [Top plate](/Drone%20Frame/Top%20Plate/Top%20plate.stl), [Bottom plate].(better to use PETG-CF)
+**PETG or ABS** - [Top plate](/Drone%20Frame/Top%20Plate/Top%20plate.stl), [Bottom plate](/Drone%20Frame/Bottom%20plate).(**better to use PETG-CF**)
 
-TPU - [Camera mount], [GPS mount], [VTX antena mount].
+**TPU** - [Camera mount](/Drone%20Frame/Camera%20Mount/Camera%20mount%20right.stl), [GPS mount](/Drone%20Frame/GPS%20mount/GPS%20mount.stl), [VTXantena mount](/Drone%20Frame/Vtx%20antena%20mount/Antenna%20mount.stl).
 
 
 
