@@ -99,7 +99,7 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 
 **USE-**
 
-PETG or ABS - [Top plate](Drone Frame/Top Plate/Top plate.stl), [Bottom plate].(better to use PETG-CF)
+PETG or ABS - [Top plate](/Drone%20Frame/Top%20Plate/Top%20plate.stl), [Bottom plate].(better to use PETG-CF)
 
 TPU - [Camera mount], [GPS mount], [VTX antena mount].
 
