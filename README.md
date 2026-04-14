@@ -75,6 +75,7 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 * Gemfan 3018 bi-blade × 2 pair (https://s.click.aliexpress.com/e/_c34qvZlJ)
 * Hglrc m100 mini GPS (https://s.click.aliexpress.com/e/_c4F9Fw8h)
 * HGLRC Zeus Nano VTX 350mW (https://s.click.aliexpress.com/e/_c3wNfnSD)
+* 2.54mm Round Hole Needle Female & Male Pin Header (https://s.click.aliexpress.com/e/_c327hfoV)
 
 **Components:**
 
