@@ -90,7 +90,7 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 **PCB**
 
 Use JLCPCB if you're in ASIA or PCBWAY if you're in America. Also, find what manufacturer is better for you. 
-If you just want to get Flight controller PCB then use this [**GERBER file**](/Flight Controller/PCB/Gerber_HACK_FLY_PCB_V1.2_2026-04-11.zip)
+If you just want to get Flight controller PCB then use this [**GERBER file**](/Flight%20Controller/PCB/Gerber_HACK_FLY_PCB_V1.2_2026-04-11.zip)
 
 
 
