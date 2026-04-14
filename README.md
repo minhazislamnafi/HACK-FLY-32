@@ -87,7 +87,7 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 (https://s.click.aliexpress.com/e/_c3fRfz0V)
 
 
-**PCB**
+## PCB
 
 Use JLCPCB if you're in ASIA or PCBWAY if you're in America. Also, find what manufacturer is better for you. 
 If you just want to get Flight controller PCB then use this [**GERBER file**](/Flight%20Controller/PCB/Gerber_HACK_FLY_PCB_V1.2_2026-04-11.zip). Download it and place order.
@@ -95,13 +95,13 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 <img width="1756" height="806" alt="fc 2 bg2" src="https://github.com/user-attachments/assets/cd0f46fc-6132-4cc7-8963-48be5573cfbb" />
 
 
-**3D printed parts**
+## 3D printed parts
 
-USE-
+**USE-**
 
-PETG or ABS - Top plate, Bottom plate.(better to use PETG-CF)
+PETG or ABS - [Top plate](Drone Frame/Top Plate/Top plate.stl), [Bottom plate].(better to use PETG-CF)
 
-TPU - Camera mount, GPS mount, VTX antena mount.
+TPU - [Camera mount], [GPS mount], [VTX antena mount].
 
 
 
