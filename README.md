@@ -104,7 +104,7 @@ To print all the parts for the HACK FLY frame, please **USE-**
 **TPU** - [Camera mount](/Drone%20Frame/Camera%20Mount/Camera%20mount%20right.stl), [GPS mount](/Drone%20Frame/GPS%20mount/GPS%20mount.stl), [VTXantena mount](/Drone%20Frame/Vtx%20antena%20mount/Antenna%20mount.stl).
 
 
-
+**AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS**
 
 
 
