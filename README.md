@@ -53,12 +53,12 @@ Break the frame in a crash? Just print another. Cost? less than 1$ even if you P
 
 
 # Documentation
-In this repository you can find 3D printable Drone frame STL file, Garber and all the other
-files to build your own flight controller. for Flashing the latest Betaflight to 
-Flight controller visit rtlopez/esp-fc repo- 
+In this repository you can find 3D printable STL files, Garber and all the other
+files to build your own flight controller and Drone frame. 
+for Flashing the latest Betaflight to Flight controller visit rtlopez/esp-fc repo- 
 https://github.com/rtlopez/esp-fc.
 
-Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
+Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any help.
 
 
 
