@@ -48,7 +48,7 @@ Also compatible with BetaFlight (you can achieve very agile and stable flight ch
 If you combine it with a high-performance 18650 Li-ion battery (like Molicel PB28A,Eve 30pl,Ampace jp30 or Sony vt6), you can get over 10 minutes of flight time.
 
 Who didn't want his drone to be repairable? The 3D-printed frame gives you that flexibility.
-Break the frame in a crash? Just print another. Cost? less than 1$ even if you PETG-CF.
+Break the frame in a crash? Just print another. Cost? less than 1$ even if you use PETG-CF.
 
 
 
@@ -56,9 +56,9 @@ Break the frame in a crash? Just print another. Cost? less than 1$ even if you P
 In this repository you can find 3D printable STL files, Garber and all the other
 files to build your own flight controller and Drone frame. 
 for Flashing the latest Betaflight to Flight controller visit rtlopez/esp-fc repo- 
-https://github.com/rtlopez/esp-fc.
+**https://github.com/rtlopez/esp-fc**.
 
-Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any help.
+Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any kind of help.
 
 
 
@@ -66,7 +66,8 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any help.
 
 ## Requirements
 
-**Hardware:**
+## Hardware:
+
 * Seeed Studio Xiao ESP32 S3(https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
 * 1104 4300kv mottor x4 (https://s.click.aliexpress.com/e/_c4sG0n0N)
 * 2-3S micro 8A ESC x4 (https://s.click.aliexpress.com/e/_c4ShBcjr)
@@ -85,6 +86,8 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any help.
 (https://a.aliexpress.com/_c3XHJm1T)
 * 0805 size red & green led ×2
 (https://s.click.aliexpress.com/e/_c3fRfz0V)
+
+**For detailed parts list follow [Hardware list](/docs/hardware.md)
 
 
 ## PCB
