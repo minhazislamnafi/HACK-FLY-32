@@ -4,7 +4,7 @@
 A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Betaflight](https://img.shields.io/badge/Betaflight-Compatable25-green)
+![Betaflight](https://img.shields.io/badge/Betaflight-Compatable-green)
 
 <img width="1106" height="614" alt="Screenshot 2026-04-12 003450" src="https://github.com/user-attachments/assets/b14870b5-b535-459b-bb79-ff70f3c01772" />
 
