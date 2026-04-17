@@ -1,3 +1,5 @@
+## BOM for flight controlr ##
+
 | Name | Quantity | Link | 
 | --- | --- | --- |
 | Seeed Studio Xiao ESP32 S3 | X1 | https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html |
