@@ -8,4 +8,4 @@
 | HGLRC Zeus Nano VTX 350mW | X1 | https://s.click.aliexpress.com/e/_c3wNfnSD |
 | 2.54mm Round Hole Needle Female & Male Pin Header | X2 | https://s.click.aliexpress.com/e/_c327hfoV |
 | Mpu6050M QFN-24 | X1 | https://s.click.aliexpress.com/e/_c2JBpdQt |
-| 0402 10uH inducto | X1 | https://s.click.aliexpress.com/e/_c3vbFmHj |
+| 0402 10uH inductor | X1 | https://s.click.aliexpress.com/e/_c3vbFmHj |
