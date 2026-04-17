@@ -1,7 +1,8 @@
-## BOM ##
+# BOM #
 
 | Name | Quantity | Link | 
-| For flight controller |
+| --- | --- | --- |
+| **For flight controller** |  |  |
 | --- | --- | --- |
 | Seeed Studio Xiao ESP32 S3 | X1 | https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html |
 | 2-3S micro 8A ESC | X4 | https://s.click.aliexpress.com/e/_c4ShBcjr |
