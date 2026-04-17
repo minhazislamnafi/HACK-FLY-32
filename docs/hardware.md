@@ -1,4 +1,4 @@
-## BOM for flight controlr ##
+## BOM for flight controller ##
 
 | Name | Quantity | Link | 
 | --- | --- | --- |
@@ -11,3 +11,7 @@
 | 2.54mm Round Hole Needle Female & Male Pin Header | X2 | https://s.click.aliexpress.com/e/_c327hfoV |
 | Mpu6050M QFN-24 | X1 | https://s.click.aliexpress.com/e/_c2JBpdQt |
 | 0402 10uH inductor | X1 | https://s.click.aliexpress.com/e/_c3vbFmHj |
+
+
+## BOM for Drone Frame ##
+
