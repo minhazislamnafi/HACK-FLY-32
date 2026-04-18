@@ -1,6 +1,6 @@
 # BOM #
 
-| Name | Quantity | Link | 
+| Name | Quantity | footprint | Link | price|
 | --- | --- | --- |
 |  |  |  |
 |  |  |  |
