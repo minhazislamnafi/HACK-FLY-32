@@ -1,7 +1,7 @@
 # BOM #
 
 | Name | Quantity | footprint | Link | price|
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | **For flight controller** |  |  |  |  |
