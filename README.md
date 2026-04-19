@@ -6,6 +6,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
 ![Betaflight](https://img.shields.io/badge/Betaflight-Compatable-green)
 ![pcb](https://img.shields.io/badge/FC-v1.1-blue)
+![Size](https://img.shields.io/badge/3inch-2~3S-orange)
 
 <img width="1106" height="614" alt="Screenshot 2026-04-12 003450" src="https://github.com/user-attachments/assets/b14870b5-b535-459b-bb79-ff70f3c01772" />
 
