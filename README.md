@@ -11,6 +11,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 <img width="1106" height="614" alt="Screenshot 2026-04-12 003450" src="https://github.com/user-attachments/assets/b14870b5-b535-459b-bb79-ff70f3c01772" />
 
 
+
 ⚠️ Disclaimer
 The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability and it's under the [MIT License](/license).
 
