@@ -1,11 +1,11 @@
 # BOM #
 
 | Name | Qty | footprint | Source | price (total)|
-| --- | :---: | :---: | --- | --- |
+| --- | :---: | :---: | :---: | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | **For flight controller** |  |  |  |  |
-|  |  |  | | |
+|  |  |  |  |  |
 | `Seeed Studio Xiao ESP32 S3` | 1 | | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) | 7.50$ |
 | `Mpu6050M QFN-24` | *2 | QFN-24 | [AliExpress](https://s.click.aliexpress.com/e/_c2JBpdQt)  | 3.40$ |
 | `MP1584EN-LF` | 1 | SOIC-8 | [AliExpress](https://s.click.aliexpress.com/e/_c4m1MzqZ) | 3.00$ |
@@ -13,7 +13,7 @@
 | `0402 10uH inductor` | *10 | L0402 | [AliExpress](https://s.click.aliexpress.com/e/_c3vbFmHj) | 1.80$ |
 | ``100nf cap`` | *50 | C0603 | [AliExpress](https://s.click.aliexpress.com/e/_c2zBG1P7) | 0.90$ |
 | ``10uf cap``| *50 | C0603 | [AliExpress](https://s.click.aliexpress.com/e/_c3JfbJJL) | 1.90$ |
-| ``220pf cap`` | *50 | C0603 | https://s.click.aliexpress.com/e/_c2zBG1P7 | 0.90$ |
+| ``220pf cap`` | *50 | C0603 | [AliExpress](https://s.click.aliexpress.com/e/_c2zBG1P7) | 0.90$ |
 | ``Red &green LED`` | *200 | 0603 | [AliExpress](https://s.click.aliexpress.com/e/_c2uf5xmZ)  | 1.20$ |
 | ``200`` | *100 | R0603 | [AliExpress](https://s.click.aliexpress.com/e/_c3cSR54l) | 0.65$ |
 | ``10K`` | *100 | R0603 | [AliExpress](https://s.click.aliexpress.com/e/_c3cSR54l) | 0.65$ |
