@@ -1,10 +1,12 @@
 # BOM #
 
+The quantity of parts marked **(*)** is the lowest they sell. This is not the actual requirement quantity.
+
 | Name | Qty | footprint | Source | price (total)|
 | --- | :---: | :---: | :---: | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| **For flight controller** |  |  |  |  |
+| **(For flight controller)** |  |  |  |  |
 |  |  |  |  |  |
 | `Seeed Studio Xiao ESP32 S3` | 1 | | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) | 7.50$ |
 | `Mpu6050M QFN-24` | *2 | QFN-24 | [AliExpress](https://s.click.aliexpress.com/e/_c2JBpdQt)  | 3.40$ |
@@ -25,7 +27,7 @@
 | ``40.2K`` | *100 | R0603 | [AliExpress](https://s.click.aliexpress.com/e/_c3cSR54l) | 0.65$ |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| **For Drone it self** |  |  |  |  |
+| **(For Drone it self)** |  |  |  |  |
 |  |  |  |  |  |
 | `1104 4300kv mottor` | 4 | | [AliExpress](https://s.click.aliexpress.com/e/_c4sG0n0N)  | 11.72$ |
 | `2-3S micro 8A ESC` | 4 | | [AliExpress](https://s.click.aliexpress.com/e/_c4ShBcjr)  | 6.92$ |
