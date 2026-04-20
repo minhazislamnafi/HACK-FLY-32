@@ -38,5 +38,10 @@
 | `M2*12mm Harden Allen Hex Hexagon Screw` | *50 | | https://s.click.aliexpress.com/e/_c34U4h6V | 2.80$ |
 |  |  |  | | |
 |  |  |  | | |
-|  |  | **Esteemed Cost** | Around(**~95$**) | |
+| **PCB Manufacturing** | *5 |  | [JLCPCB](https://cart.jlcpcb.com/quote) | 2$ +shiping|
+|  |  |  | | |
+| **3D printing** | 1 |  | local vendor | ~2$ |
+|  |  |  | | |
+|  |  |  | | |
+|  |  | **Esteemed Cost** | Around(**~105$**) | |
 
