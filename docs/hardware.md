@@ -11,18 +11,18 @@
 | `MP1584EN-LF` | 1 | SOIC-8 |  |  |
 | `2.54mm Round Hole Needle Female & Male Pin Header` | 2 | 2.54mm*40p | https://s.click.aliexpress.com/e/_c327hfoV | |
 | `0402 10uH inductor` | 1 | L0402 | https://s.click.aliexpress.com/e/_c3vbFmHj | |
-| 100nf cap | 5 | C0603 |  |  |
-| 10uf cap | 1 | C0603 |  |  |
-| 220pf cap | 2 | C0603 |  |  |
-| Red &green LED | 2 | 0603 |  |  |
-| 200 | 1 | R0603 |  |  |
-| 10K | 5 | R0603 |  |  |
-| 100K | 1 | R0603 |  |  |
-| 200K | 1 | R0603 |  |  |
-| 24.9K | 1 | R0603 |  |  |
-| 64.1K | 1 | R0603 |  |  |
-| 124K | 1 | R0603 |  |  |
-| 40.2K | 1 | R0603 |  |  |
+| ``100nf cap`` | 5 | C0603 |  |  |
+| ``10uf cap``| 1 | C0603 |  |  |
+| ``220pf cap`` | 2 | C0603 |  |  |
+| ``Red &green LED`` | 2 | 0603 |  |  |
+| ``200`` | 1 | R0603 |  |  |
+| ``10K`` | 5 | R0603 |  |  |
+| ``100K`` | 1 | R0603 |  |  |
+| ``200K`` | 1 | R0603 |  |  |
+| ``24.9K`` | 1 | R0603 |  |  |
+| ``64.1K`` | 1 | R0603 |  |  |
+| ``124K`` | 1 | R0603 |  |  |
+| ``40.2K`` | 1 | R0603 |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | **For Drone it self** |  |  |  |  |
@@ -38,5 +38,5 @@
 | `M2*12mm Harden Allen Hex Hexagon Screw` | 4 | | https://s.click.aliexpress.com/e/_c34U4h6V | |
 |  |  |  | | |
 |  |  |  | | |
-|  |  | **Esteemed Cost** | ~95$ | |
+|  |  | **Esteemed Cost** | Around(**~95$**) | |
 
