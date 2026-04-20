@@ -11,7 +11,7 @@ The quantity of parts marked **(*)** is the lowest they sell. This is not the ac
 | `Seeed Studio Xiao ESP32 S3` | 1 | | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) | 7.50$ |
 | `Mpu6050M QFN-24` | *2 | QFN-24 | [AliExpress](https://s.click.aliexpress.com/e/_c2JBpdQt)  | 3.40$ |
 | `MP1584EN-LF` | 1 | SOIC-8 | [AliExpress](https://s.click.aliexpress.com/e/_c4m1MzqZ) | 3.00$ |
-| `2.54mm Round Hole Needle Female & Male Pin Header` | 2 | 2.54mm*40p | [AliExpress](https://s.click.aliexpress.com/e/_c327hfoV) |  |
+| `2.54mm Round Hole Needle Female & Male Pin Header` | 2 | 2.54mm*40p | [AliExpress](https://s.click.aliexpress.com/e/_c327hfoV) | 2.30$  |
 | `0402 10uH inductor` | *10 | L0402 | [AliExpress](https://s.click.aliexpress.com/e/_c3vbFmHj) | 1.80$ |
 | ``100nf cap`` | *50 | C0603 | [AliExpress](https://s.click.aliexpress.com/e/_c2zBG1P7) | 0.90$ |
 | ``10uf cap``| *50 | C0603 | [AliExpress](https://s.click.aliexpress.com/e/_c3JfbJJL) | 1.90$ |
