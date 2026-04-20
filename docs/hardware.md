@@ -3,7 +3,7 @@
 The quantity of parts marked **(*)** is the lowest they sell. This is not the actual requirement quantity.
 
 | Name | Qty | footprint | Source | price (total)|
-| --- | :---: | :---: | :---: | --- |
+| --- | :---: | :---: | :---: | :---: |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | **(For flight controller)** |  |  |  |  |
