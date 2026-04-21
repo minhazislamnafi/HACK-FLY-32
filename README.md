@@ -1,3 +1,4 @@
+<img width="1410" height="2000" alt="FLY" src="https://github.com/user-attachments/assets/2b408c52-23c5-4538-b065-529a8ca645e2" />
 
 # HACK FLY 32 (3 inch fpv drone using esp32 s3)
 
@@ -8,7 +9,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 ![pcb](https://img.shields.io/badge/FC-v1.1-blue)
 ![Size](https://img.shields.io/badge/3inch-2~3S-cyan)
 
-<img width="1106" height="614" alt="Screenshot 2026-04-12 003450" src="https://github.com/user-attachments/assets/b14870b5-b535-459b-bb79-ff70f3c01772" />
+
 
 
 ⚠️ Disclaimer
