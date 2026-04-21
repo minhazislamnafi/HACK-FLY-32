@@ -118,7 +118,8 @@ To print all the parts for the HACK FLY frame, please **USE-**
 **AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS**
 
 ## Wiring Diagram ##
-<img width="2726" height="1359" alt="Screenshot 2026-04-20 183843" src="https://github.com/user-attachments/assets/686a17d8-afff-454f-93da-72f0f05b00fc" />
+<img width="6000" height="3000" alt="wiring_diagram" src="https://github.com/user-attachments/assets/1a20d737-c2cb-4b73-bb8b-8799eba2aa69" />
+
 
 
 
