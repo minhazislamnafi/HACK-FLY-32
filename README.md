@@ -1,5 +1,3 @@
-<img width="1410" height="2000" alt="FLY" src="https://github.com/user-attachments/assets/2b408c52-23c5-4538-b065-529a8ca645e2" />
-
 # HACK FLY 32 (3 inch fpv drone using esp32 s3)
 
 A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
@@ -10,7 +8,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 ![Size](https://img.shields.io/badge/3inch-2~3S-cyan)
 
 
-
+<img width="1410" height="2000" alt="FLY" src="https://github.com/user-attachments/assets/2b408c52-23c5-4538-b065-529a8ca645e2" />
 
 ⚠️ Disclaimer
 The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability and it's under the [MIT License](/license).
