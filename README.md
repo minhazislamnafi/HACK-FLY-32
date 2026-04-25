@@ -95,7 +95,7 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get any kind of h
 * 0805 size red & green led ×2
 (https://s.click.aliexpress.com/e/_c3fRfz0V)
 
-## For detailed parts list and prices follow [BOM](docs/Bill of material/BOM.md) ##
+## For detailed parts list and prices follow [BOM](docs/Bill%20of%20material/BOM.md) ##
 
 
 ## PCB
