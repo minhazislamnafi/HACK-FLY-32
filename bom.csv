@@ -1,0 +1,38 @@
+Name,Qty,Footprint,Source,Unit Price,Price (total)
+,,,,,
+(For flight controller),,,,,
+,,,,,
+Seeed Studio Xiao ESP32 S3,1,,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html,7.50,7.50
+Mpu6050M QFN-24,2,QFN-24,https://s.click.aliexpress.com/e/_c2JBpdQt,1.70,3.40
+MP1584EN-LF,1,SOIC-8,https://s.click.aliexpress.com/e/_c4m1MzqZ,3.00,3.00
+2.54mm Round Hole Needle Female & Male Pin Header,2,2.54mm*40p,https://s.click.aliexpress.com/e/_c327hfoV,1.15,2.30
+0402 10uH inductor,10,L0402,https://s.click.aliexpress.com/e/_c3vbFmHj,0.18,1.80
+100nf cap,50,C0603,https://s.click.aliexpress.com/e/_c2zBG1P7,0.018,0.90
+10uf cap,50,C0603,https://s.click.aliexpress.com/e/_c3JfbJJL,0.038,1.90
+220pf cap,50,C0603,https://s.click.aliexpress.com/e/_c2zBG1P7,0.018,0.90
+Red & green LED,200,0603,https://s.click.aliexpress.com/e/_c2uf5xmZ,0.006,1.20
+200 resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+10K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+100K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+200K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+24.9K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+64.1K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+124K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+40.2K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
+,,,,,
+(For Drone itself),,,,,
+,,,,,
+1104 4300kv motor,4,,https://s.click.aliexpress.com/e/_c4sG0n0N,2.93,11.72
+2-3S micro 8A ESC,4,,https://s.click.aliexpress.com/e/_c4ShBcjr,1.73,6.92
+Gemfan 3018 bi-blade,4 pair,,https://s.click.aliexpress.com/e/_c34qvZlJ,1.875,7.50
+Hglrc m100 mini GPS,1,,https://s.click.aliexpress.com/e/_c4F9Fw8h,15.60,15.60
+HGLRC Zeus Nano VTX 350mW,1,,https://s.click.aliexpress.com/e/_c3wNfnSD,26.80,26.80
+2mm*15mm Female to Female thread Brass Round Standoff,20,,https://s.click.aliexpress.com/e/_c4UTr2UN,0.0975,1.95
+M1.4*6mm Cross Phillips Flat Head Countersunk Head Screw,100,,https://s.click.aliexpress.com/e/_c2ynEA9r,0.0085,0.85
+M2*6mm Phillips Truss Mushroom Head Screw,20,,https://s.click.aliexpress.com/e/_c3dtilIl,0.054,1.08
+M2*12mm Harden Allen Hex Hexagon Screw,50,,https://s.click.aliexpress.com/e/_c34U4h6V,0.056,2.80
+
+PCB Manufacturing,5,,https://cart.jlcpcb.com/quote,0.40,2 + shipping
+3D printing,1,,local vendor,~2,~2
+,,,,,
+Estimated Cost,,,,,~105
