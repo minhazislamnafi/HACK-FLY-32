@@ -122,7 +122,7 @@ To print all the parts for the HACK FLY frame, please **USE-**
 <img width="6000" height="3000" alt="wiring_diagram" src="https://github.com/user-attachments/assets/1a20d737-c2cb-4b73-bb8b-8799eba2aa69" />
 
 
-**AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS**
+## AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS ##
 
 **1. Spend some money $$ to buy the parts mentioned in [BOM](docs/Bill%20of%20material/BOM.md).**
 
