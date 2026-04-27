@@ -10,7 +10,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 
 <img width="1410" height="2000" alt="HACK FLY ZINE(2)" src="https://github.com/user-attachments/assets/dc6bfd38-9e81-4bae-8a41-14774d320806" />
 
-Zine link
+**[Zine link](/docs/ZINE/HACK%20FLY%20ZINE.pdf)**
 
 
 
