@@ -1,4 +1,5 @@
 Name,Qty,Footprint,Source,Unit Price,Price (total)
+,,,,,
 (For flight controller),,,,,
 Seeed Studio Xiao ESP32 S3,1,,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html,7.50,7.50
 Mpu6050M QFN-24,2,QFN-24,https://s.click.aliexpress.com/e/_c2JBpdQt,1.70,3.40
@@ -17,7 +18,7 @@ Red & green LED,200,0603,https://s.click.aliexpress.com/e/_c2uf5xmZ,0.006,1.20
 64.1K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
 124K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
 40.2K resistor,100,R0603,https://s.click.aliexpress.com/e/_c3cSR54l,0.0065,0.65
-
+,,,,,
 (For Drone itself),,,,,
 1104 4300kv motor,4,,https://s.click.aliexpress.com/e/_c4sG0n0N,2.93,11.72
 2-3S micro 8A ESC,4,,https://s.click.aliexpress.com/e/_c4ShBcjr,1.73,6.92
