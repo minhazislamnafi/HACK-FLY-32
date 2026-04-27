@@ -118,10 +118,19 @@ To print all the parts for the HACK FLY frame, please **USE-**
 **TPU** - [Camera mount](/Drone%20Frame/Camera%20Mount/Camera%20mount%20right.stl), [GPS mount](/Drone%20Frame/GPS%20mount/GPS%20mount.stl), [VTXantena mount](/Drone%20Frame/Vtx%20antena%20mount/Antenna%20mount.stl).
 
 
-**AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS**
-
 ## Wiring Diagram ##
 <img width="6000" height="3000" alt="wiring_diagram" src="https://github.com/user-attachments/assets/1a20d737-c2cb-4b73-bb8b-8799eba2aa69" />
+
+
+**AFTER EVERYTHING IS DONE SOURCING, FOLLOW THESE STEPS**
+
+**1. Spend some money $$ to buy the parts mentioned in [BOM](docs/Bill%20of%20material/BOM.md).**
+**2. Order the Flight controller PCB using this [GERBER file](/Flight%20Controller/PCB/Gerber_HACK_FLY_PCB_V1.2_2026-04-11.zip).**
+**3. Solder the SMD components of the PCB by hand ;) Or just order the PCBs with SMT services.**
+**4. Using the wiring diagram, solder the ESCs and battery connector to the PCB.**
+**5. crucial step: assemble everything. ( I will add every assembly step, once I have built IRL:)**
+
+
 
 
 
