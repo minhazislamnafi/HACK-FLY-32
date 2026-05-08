@@ -32,6 +32,7 @@ The quantity of parts marked **(*)** is the lowest they sell. This is not the ac
 | `1104 4300kv mottor` | 4 | | [AliExpress](https://s.click.aliexpress.com/e/_c4sG0n0N)  | 11.72$ |
 | `2-3S micro 8A ESC` | 4 | | [AliExpress](https://s.click.aliexpress.com/e/_c4ShBcjr)  | 6.92$ |
 | `Gemfan 3018 bi-blade` | 4 pair | | [AliExpress](https://s.click.aliexpress.com/e/_c34qvZlJ ) | 7.5$ |
+| 2.4Ghz ELRS RX | 1 |  | [AliExpress](https://a.aliexpress.com/_c4OytxWf) | 11.5 |
 | `Hglrc m100 mini GPS` | 1 | | [AliExpress](https://s.click.aliexpress.com/e/_c4F9Fw8h)  | 15.6$ |
 | `HGLRC Zeus Nano VTX 350mW` | 1 | | [AliExpress](https://s.click.aliexpress.com/e/_c3wNfnSD)| 26.8$ |
 | `2mm*15mm Female to Female thread Brass Round Standoff` | *20 | | [ AliExpress](https://s.click.aliexpress.com/e/_c4UTr2UN)  | 1.95$ |
