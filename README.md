@@ -109,7 +109,7 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 
 ## 3D printed parts
 
-**Full Onshape CAD [link](https://cad.onshape.com/documents/91570ca427478f6ae70e01eb/w/492acaa76972d9ee5b32506f/e/992fe092f0691e5ff67f2b14?renderMode=0&uiState=69eeb3fd4989f512fbb6f874)**
+## Full Onshape CAD [link](https://cad.onshape.com/documents/91570ca427478f6ae70e01eb/w/492acaa76972d9ee5b32506f/e/992fe092f0691e5ff67f2b14?renderMode=0&uiState=69eeb3fd4989f512fbb6f874)
 
 To print all the parts for the HACK FLY frame, please **USE-**
 
