@@ -16,7 +16,7 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 
 
 ⚠️ Disclaimer
-The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability and it's under the [MIT License](/license).
+The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability and it's under the [CERN Open Hardware Licence version 2-Strongly reciprocal ](/license), and the firmware ESP-FLY is under the MIT license.
 
 USE AT YOUR OWN RISK.
 
