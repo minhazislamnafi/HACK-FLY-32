@@ -116,7 +116,8 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 
 ## IRL
 
-<img width="1807" height="2400" alt="1000051388-Photoroom" src="https://github.com/user-attachments/assets/72b96be9-290d-4846-b8b5-890b96a9d1bb" />
+<img width="1701" height="1252" alt="1000051388-Photoroom" src="https://github.com/user-attachments/assets/be098dd2-32f8-47a0-a8e6-6cb3d9618ddf" />
+
 
 
 
