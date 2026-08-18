@@ -108,7 +108,7 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 <img width="1756" height="806" alt="fc 2 bg2" src="https://github.com/user-attachments/assets/cd0f46fc-6132-4cc7-8963-48be5573cfbb" />
 
 
-## 3D printed parts
+## CAD Render
 
 <img width="1714" height="1288" alt="1000042196-Photoroom" src="https://github.com/user-attachments/assets/9dcc5148-e2e2-4c12-8ab7-5aa16fd57add" />
 
