@@ -112,10 +112,15 @@ Or if you just want to build your own PCB, then follow this [**Schematic**](/Fli
 
 <img width="1714" height="1288" alt="1000042196-Photoroom" src="https://github.com/user-attachments/assets/9dcc5148-e2e2-4c12-8ab7-5aa16fd57add" />
 
-
 ## Full Onshape CAD [link](https://cad.onshape.com/documents/91570ca427478f6ae70e01eb/w/492acaa76972d9ee5b32506f/e/992fe092f0691e5ff67f2b14?renderMode=0&uiState=69eeb3fd4989f512fbb6f874)/[Full assembly](https://cad.onshape.com/documents/91570ca427478f6ae70e01eb/w/492acaa76972d9ee5b32506f/e/0d19368f0521a092eb10a81c?renderMode=0&uiState=69feb6588dc385fd419da8b7)
 
-To print all the parts for the HACK FLY frame, please **USE-**
+## IRL
+
+<img width="1807" height="2400" alt="1000051388-Photoroom" src="https://github.com/user-attachments/assets/72b96be9-290d-4846-b8b5-890b96a9d1bb" />
+
+
+
+To print all the parts for the HACK FLY frame, please **USE**
 
 **PETG or ABS** - [Top plate](/Drone%20Frame/Top%20Plate/Top%20plate.stl), [Bottom plate](/Drone%20Frame/Bottom%20plate).(**better to use PETG-CF**)
 
