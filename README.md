@@ -8,7 +8,8 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 ![Size](https://img.shields.io/badge/3inch-2~3S-cyan)
 
 
-<img width="1410" height="2000" alt="FLY (1)" src="https://github.com/user-attachments/assets/e9df769d-2051-4416-9737-851a4e91c415" />
+<img width="1410" height="2000" alt="FLY (2)" src="https://github.com/user-attachments/assets/8fe996cf-87c0-423a-bcde-c8881e185944" />
+
 
 
 **[Zine link](/docs/ZINE/HACK%20FLY%20ZINE.pdf)**
